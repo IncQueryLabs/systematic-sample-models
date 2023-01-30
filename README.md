@@ -14,6 +14,8 @@ Licensed under the Apache License 2.0 (see [LICENSE](LICENSE))
    In particular, both for cross-references and Relationship types, our aim is not simply to generate one instance for each kind. 
    Rather, we aim to generate cross-reference instances and Relationship instances for each combination of _concrete element types_ conformant to the source and target metaclasses.   
    
+   In time, the models hosted here will progressively grow to cover more and more.
+   
 **Non-goals:** 
    * coverage of UML profiles
    * avoiding warning/error markers if validation is performed against any validation suite
@@ -21,4 +23,4 @@ Licensed under the Apache License 2.0 (see [LICENSE](LICENSE))
 
 **Downloadable UML model artifacts:** 
    * MagicDraw/Cameo version 19: to be uploaded
-   * MagicDraw/Cameo version 2021x or newer: to be uploaded
+   * MagicDraw/Cameo version 2021x or newer: [download here](https://github.com/IncQueryLabs/systematic-sample-models/blob/main/cameo-models/uml-coverage/Systematic%20Sample%20Model%20-%20UML%20in%20MD2021x.mdzip?raw=true)
