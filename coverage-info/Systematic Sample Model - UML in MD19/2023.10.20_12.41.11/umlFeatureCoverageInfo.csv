@@ -1,0 +1,975 @@
+Feature,Covered,Defining Type,UML Standard,Filtered
+protocol,true,Interface,true,true
+result,true,[Abstract] CallAction,true,true
+_loopNodeOfSetupPart,true,[Abstract] ExecutableNode,false,false
+_interactionUseOfActualGate,true,Gate,false,true
+isException,true,Parameter,true,true
+redefinitionContext__from_Vertex,true,[Abstract] Vertex,true,false
+alias,true,ElementImport,true,true
+ownedPort,true,[Abstract] EncapsulatedClassifier,true,false
+format,true,Image,true,true
+interaction,true,Lifeline,true,true
+generalization,true,[Abstract] Classifier,true,true
+_instanceValueOfInstance,true,InstanceSpecification,false,false
+parameter,true,ActivityParameterNode,true,true
+ownedUseCase,true,[Abstract] Classifier,true,true
+object,true,[Abstract] StructuralFeatureAction,true,true
+_classifierTemplateParameterOfConstrainingClassifier,true,[Abstract] Classifier,false,false
+_representationText,true,[Abstract] ModelObject,false,true
+_startObjectBehaviorActionOfObject,true,InputPin,false,true
+_profileOfMetamodelReference,true,PackageImport,false,true
+extendedStateMachine,true,StateMachine,true,false
+end,true,Connector,true,true
+exit,true,ConnectionPointReference,true,true
+specificMachine,true,ProtocolConformance,true,true
+_typedElementOfType,true,[Abstract] Type,false,false
+_linkEndDataOfQualifier,true,QualifierValue,false,true
+_connectorOfEnd,true,ConnectorEnd,false,true
+_linkEndDataOfValue,true,InputPin,false,false
+_combinedFragmentOfOperand,true,InteractionOperand,false,true
+_transitionOfTrigger,true,Trigger,false,true
+guard,true,[Abstract] ActivityEdge,true,true
+owningInstanceSpec,true,[Abstract] ValueSpecification,true,true
+end,true,LinkEndData,true,true
+metaclass,true,Extension,true,false
+fileName,true,Artifact,true,true
+_reclassifyObjectActionOfOldClassifier,true,[Abstract] Classifier,false,false
+_portOfRequired,false,Interface,false,false
+extendedRegion,true,Region,true,true
+importingNamespace,true,PackageImport,true,true
+_collaborationUseOfRoleBinding,true,Dependency,false,true
+templateBinding,true,TemplateParameterSubstitution,true,true
+_qualifierValueOfValue,true,InputPin,false,false
+_callActionOfResult,true,OutputPin,false,true
+isAbstract__from_Class,true,Class,true,false
+conformance,true,ProtocolStateMachine,true,true
+_vertexOfRedefinitionContext,false,[Abstract] Classifier,false,false
+_stateMachineOfExtendedStateMachine,true,StateMachine,false,false
+redefinedConnector,true,Connector,true,true
+_gateOfFormalGate,true,Gate,false,false
+redefinedVertex,true,[Abstract] Vertex,true,true
+_interactionFragmentOfGeneralOrdering,true,GeneralOrdering,false,true
+specification__from_DurationConstraint,true,DurationConstraint,true,false
+executionLocation,true,DeploymentSpecification,true,true
+fromAction,true,ActionInputPin,true,true
+realizingActivityEdge,true,InformationFlow,true,true
+_sendSignalActionOfSignal,true,Signal,false,false
+qualifiedName,true,[Abstract] NamedElement,true,false
+_readStructuralFeatureActionOfResult,true,OutputPin,false,true
+selector,true,Lifeline,true,true
+isIndirectlyInstantiated,true,Component,true,true
+required,true,Port,true,false
+_raiseExceptionActionOfException,true,InputPin,false,true
+argument,true,InteractionUse,true,true
+operand,true,Expression,true,true
+object,true,StartClassifierBehaviorAction,true,true
+relatedElement,true,[Abstract] Relationship,true,false
+_objectFlowOfTransformation,true,[Abstract] Behavior,false,false
+_packageImportOfImportedPackage,true,Package,false,false
+visibility,true,ElementImport,true,true
+source,true,[Abstract] DirectedRelationship,true,false
+body,true,Comment,true,true
+result,true,ClearStructuralFeatureAction,true,true
+redefinedTransition,true,Transition,true,true
+end,true,ReadLinkObjectEndAction,true,true
+_durationConstraintOfSpecification,true,DurationInterval,false,false
+isConjugated,true,Port,true,true
+allowSubstitutable,true,ClassifierTemplateParameter,true,true
+expression,true,[Abstract] ValueSpecification,true,true
+isReplaceAll,true,AddStructuralFeatureValueAction,true,true
+_redefinableElementOfRedefinitionContext,true,[Abstract] Classifier,false,false
+variable,true,Activity,true,true
+ownedOperation,true,DataType,true,true
+isUnique,true,[Abstract] MultiplicityElement,true,true
+region,true,StateMachine,true,true
+invariant,true,StateInvariant,true,true
+target,true,[Abstract] ActivityEdge,true,true
+packagedElement,true,Component,true,true
+templateBinding,true,[Abstract] TemplateableElement,true,true
+_connectorOfRedefinedConnector,true,Connector,false,false
+_connectionPointReferenceOfExit,true,Pseudostate,false,false
+_structuralFeatureActionOfObject,true,InputPin,false,true
+redefinitionContext__from_Transition,true,Transition,true,false
+_protocolTransitionOfReferred,false,Operation,false,false
+_interactionUseOfReturnValueRecipient,true,Property,false,false
+_exceptionHandlerOfExceptionType,true,[Abstract] Classifier,false,false
+_removeVariableValueActionOfRemoveAt,true,InputPin,false,true
+_messageOfArgument,true,[Abstract] ValueSpecification,false,true
+result,true,CreateObjectAction,true,true
+redefinedInterface,true,Interface,true,true
+first,true,TestIdentityAction,true,true
+owningParameter,true,[Abstract] ValueSpecification,true,true
+_actionInputPinOfFromAction,true,[Abstract] Action,false,true
+isDirect,true,ReadIsClassifiedObjectAction,true,true
+firstEvent,true,DurationObservation,true,true
+_constraintOfConstrainedElement,true,[Abstract] Element,false,true
+_informationFlowOfInformationTarget,true,[Abstract] NamedElement,false,false
+_activityPartitionOfRepresents,true,[Abstract] Element,false,false
+templateParameter,true,[Abstract] ParameterableElement,true,true
+ownedParameteredElement,true,TemplateParameter,true,true
+realizingClassifier,true,ComponentRealization,true,true
+object,true,ReadIsClassifiedObjectAction,true,true
+owningUpper,true,[Abstract] ValueSpecification,true,true
+isReadOnly,true,[Abstract] StructuralFeature,true,true
+default,true,TemplateParameter,true,true
+language,true,OpaqueExpression,true,true
+_intervalOfMin,true,[Abstract] ValueSpecification,false,false
+_transitionOfGuard,true,Constraint,false,true
+classifier__from_EnumerationLiteral,true,EnumerationLiteral,true,false
+object,true,ReadLinkObjectEndAction,true,true
+message,true,Interaction,true,true
+condition,true,Extend,true,true
+generalOrdering,true,[Abstract] InteractionFragment,true,true
+inheritedParameter,true,RedefinableTemplateSignature,true,false
+mapping,true,Abstraction,true,true
+_loopNodeOfTest,true,[Abstract] ExecutableNode,false,false
+navigableOwnedEnd,true,Association,true,true
+specification__from_IntervalConstraint,true,IntervalConstraint,true,false
+_templateParameterSubstitutionOfOwnedActual,true,[Abstract] ParameterableElement,false,true
+formal,true,TemplateParameterSubstitution,true,true
+extension,true,Class,true,false
+_writeStructuralFeatureActionOfValue,true,InputPin,false,true
+useCase,true,ExtensionPoint,true,true
+ownedAttribute__from_Class,true,Class,true,false
+_namespaceOfMember,true,[Abstract] NamedElement,false,false
+variable,true,[Abstract] VariableAction,true,true
+regionAsOutput,true,ExpansionNode,true,true
+realizingConnector,true,InformationFlow,true,true
+_classifierOfRedefinedClassifier,true,[Abstract] Classifier,false,false
+isReadOnly,true,Activity,true,true
+stateInvariant,true,State,true,true
+specification__from_TimeConstraint,true,TimeConstraint,true,false
+_durationIntervalOfMin,true,Duration,false,false
+deployedArtifact,true,Deployment,true,true
+importedElement,true,ElementImport,true,true
+deployment,true,DeploymentSpecification,true,true
+activity,true,[Abstract] ActivityEdge,true,true
+owningPackage,true,[Abstract] PackageableElement,true,true
+isSynchronous,true,[Abstract] CallAction,true,true
+metamodelReference,true,Profile,true,true
+containedEdge,true,[Abstract] ActivityGroup,true,false
+_relationshipOfRelatedElement,true,[Abstract] Element,false,false
+submachine,true,State,true,true
+_linkEndCreationDataOfInsertAt,true,InputPin,false,false
+_enumerationLiteralOfClassifier,false,Enumeration,false,false
+_structuredActivityNodeOfStructuredNodeOutput,true,OutputPin,false,true
+_behaviorExecutionSpecificationOfBehavior,true,[Abstract] Behavior,false,false
+messageSort,true,Message,true,true
+icon,true,Stereotype,true,true
+isAssured,true,ConditionalNode,true,true
+_stateOfEntry,true,[Abstract] Behavior,false,true
+operation,true,Parameter,true,false
+doActivity,true,State,true,true
+_lifelineOfSelector,true,[Abstract] ValueSpecification,false,true
+isOrthogonal,true,State,true,false
+exception,true,RaiseExceptionAction,true,true
+actual,true,TemplateParameterSubstitution,true,true
+signature,true,Message,true,true
+object,true,ClearAssociationAction,true,true
+isActive,true,Class,true,true
+_structuredActivityNodeOfStructuredNodeInput,true,InputPin,false,true
+_artifactOfOwnedAttribute,true,Property,false,true
+operation,true,CallEvent,true,true
+_structuredClassifierOfPart,false,Property,false,false
+applyingPackage,true,ProfileApplication,true,true
+specification,true,[Abstract] Behavior,true,true
+isReentrant,true,[Abstract] Behavior,true,true
+receivingPackage,true,PackageMerge,true,true
+parameterSubstitution,true,TemplateBinding,true,true
+_redefinableElementOfRedefinedElement,true,[Abstract] RedefinableElement,false,false
+joinSpec,true,JoinNode,true,true
+interfaceRealization,true,[Abstract] BehavioredClassifier,true,true
+second,true,TestIdentityAction,true,true
+generalizationSet,true,Generalization,true,true
+type,true,[Abstract] TypedElement,true,true
+observation,true,TimeExpression,true,true
+trigger,true,AcceptEventAction,true,true
+_timeExpressionOfExpr,true,[Abstract] ValueSpecification,false,true
+edge,true,ActivityPartition,true,true
+finish,true,[Abstract] ExecutionSpecification,true,true
+_replyActionOfReplyToCall,true,Trigger,false,false
+_acceptEventActionOfResult,true,OutputPin,false,true
+action,true,Interaction,true,true
+refersTo,true,InteractionUse,true,true
+abstraction,true,ComponentRealization,true,true
+result,true,ReadStructuralFeatureAction,true,true
+interrupts,true,[Abstract] ActivityEdge,true,true
+successorClause,true,Clause,true,true
+isDerived,true,Association,true,true
+_readLinkObjectEndActionOfResult,true,OutputPin,false,true
+defaultValue,true,Parameter,true,true
+guard,true,Message,true,true
+input,true,[Abstract] Action,true,false
+request,true,SendObjectAction,true,false
+enumeration,true,EnumerationLiteral,true,true
+_messageOfConnector,true,Connector,false,false
+exceptionType,true,ExceptionHandler,true,true
+inputValue,true,[Abstract] LinkAction,true,true
+isDimension,true,ActivityPartition,true,true
+_activityOfPartition,true,ActivityPartition,false,false
+ownedComment,true,[Abstract] Element,true,true
+member,true,[Abstract] Namespace,true,false
+_interactionUseOfReturnValue,true,[Abstract] ValueSpecification,false,true
+parameteredElement,true,TemplateParameter,true,true
+ownedAttribute,true,Interface,true,true
+content,true,Image,true,true
+_invocationActionOfOnPort,true,Port,false,false
+_conditionalNodeOfResult,true,OutputPin,false,true
+_opaqueActionOfInputValue,true,InputPin,false,true
+_templateBindingOfSignature,true,TemplateSignature,false,false
+transformation,true,ObjectFlow,true,true
+metaclassReference,true,Profile,true,true
+_callOperationActionOfOperation,true,Operation,false,false
+_messageEndOfMessage,true,Message,false,false
+stereotypedElement,true,InstanceSpecification,true,true
+_profileApplicationOfAppliedProfile,true,Profile,false,false
+_abstractionOfMapping,true,OpaqueExpression,false,true
+isReplaceAll,true,LinkEndCreationData,true,true
+element,true,ElementValue,true,true
+stateMachine,true,Pseudostate,true,true
+deployment,true,[Abstract] DeploymentTarget,true,true
+URI,true,Package,true,true
+owningAssociation,true,Property,true,true
+message,true,ConsiderIgnoreFragment,true,true
+isAbstract,true,[Abstract] Classifier,true,true
+_triggerOfEvent,true,[Abstract] Event,false,false
+clientDependency,true,[Abstract] NamedElement,true,false
+inStructuredNode,true,[Abstract] ActivityNode,true,true
+inPartition,true,[Abstract] ActivityEdge,true,true
+conveyed,true,InformationFlow,true,true
+_readIsClassifiedObjectActionOfObject,true,InputPin,false,true
+UMLClass,true,Property,true,false
+isComposite,true,Property,true,false
+toBefore,true,OccurrenceSpecification,true,true
+region,true,State,true,true
+classifier,true,CreateObjectAction,true,true
+represents,true,ActivityPartition,true,true
+bodyPart,true,LoopNode,true,true
+clause,true,ConditionalNode,true,true
+isDestroyOwnedObjects,true,DestroyObjectAction,true,true
+ordering,true,[Abstract] ObjectNode,true,true
+substitution,true,[Abstract] Classifier,true,true
+activity__from_StructuredActivityNode,true,StructuredActivityNode,true,false
+_messageOfGuard,true,Constraint,false,true
+_behaviorOfPostcondition,true,Constraint,false,true
+_sendSignalActionOfTarget,true,InputPin,false,true
+activityScope,true,Variable,true,true
+node,true,InterruptibleActivityRegion,true,true
+target,true,CallOperationAction,true,true
+informationSource,true,InformationFlow,true,true
+_structuredClassifierOfRole,true,[Abstract] ConnectableElement,false,false
+_valueSpecificationActionOfResult,true,OutputPin,false,true
+templateParameter__from_Classifier,true,[Abstract] Classifier,true,false
+covered,true,[Abstract] InteractionFragment,true,true
+decomposedAs,true,Lifeline,true,true
+inputElement,true,ExpansionRegion,true,true
+target,true,Transition,true,true
+_protocolTransitionOfPreCondition,true,Constraint,false,true
+parameter,true,TemplateSignature,true,true
+localPostcondition,true,[Abstract] Action,true,true
+_behavioredClassifierOfClassifierBehavior,true,[Abstract] Behavior,false,false
+_activityEdgeOfWeight,true,[Abstract] ValueSpecification,false,true
+result,true,ReadVariableAction,true,true
+visibility__from_PackageableElement,true,[Abstract] PackageableElement,true,false
+result,true,ReduceAction,true,true
+handlerBody,true,ExceptionHandler,true,true
+inGroup,true,[Abstract] ActivityEdge,true,false
+classifier,true,Property,true,false
+isReplaceAll,true,ReclassifyObjectAction,true,true
+constrainedElement,true,Constraint,true,false
+ownedType,true,Package,true,false
+variable,true,StructuredActivityNode,true,true
+replyToCall,true,ReplyAction,true,true
+appliedProfile,true,ProfileApplication,true,true
+parameteredElement__from_ClassifierTemplateParameter,true,ClassifierTemplateParameter,true,false
+activity,true,[Abstract] ActivityNode,true,true
+_componentOfProvided,false,Interface,false,false
+feature,true,[Abstract] Classifier,true,false
+_clauseOfDecider,true,OutputPin,false,false
+ownedReception,true,Interface,true,true
+result,true,ReadSelfAction,true,true
+_regionOfExtendedRegion,true,Region,false,false
+_stereotypeOfProfile,true,Profile,false,false
+_objectNodeOfSelection,true,[Abstract] Behavior,false,false
+target,true,DestroyObjectAction,true,true
+_informationFlowOfRealizingActivityEdge,true,[Abstract] ActivityEdge,false,false
+unmarshallType,true,UnmarshallAction,true,true
+_namespaceOfImportedMember,false,[Abstract] PackageableElement,false,false
+_parameterSetOfCondition,true,Constraint,false,true
+loopVariable,true,LoopNode,true,true
+_startClassifierBehaviorActionOfObject,true,InputPin,false,true
+isTestedFirst,true,LoopNode,true,true
+weight,true,[Abstract] ActivityEdge,true,true
+target,true,Message,true,true
+_behavioralFeatureOfRaisedException,true,[Abstract] Type,false,false
+_artifactOfOwnedOperation,true,Operation,false,true
+_templateParameterSubstitutionOfActual,true,[Abstract] ParameterableElement,false,false
+event,true,TimeObservation,true,true
+raisedException,true,[Abstract] BehavioralFeature,true,true
+extension,true,ExtensionPoint,true,false
+owningLower,true,[Abstract] ValueSpecification,true,true
+definingEnd,true,ConnectorEnd,true,false
+configuration,true,Deployment,true,true
+_readLinkObjectEndActionOfEnd,true,Property,false,false
+default,true,Parameter,true,false
+redefinedEdge,true,[Abstract] ActivityEdge,true,true
+result,true,OpaqueExpression,true,false
+guard,true,InteractionOperand,true,true
+redefinedClassifier,true,[Abstract] Classifier,true,true
+_transitionOfRedefinitionContext,false,[Abstract] Classifier,false,false
+_interactionOfAction,true,[Abstract] Action,false,true
+lifeline,true,Interaction,true,true
+messageKind,true,Message,true,false
+packageMerge,true,Package,true,true
+deploymentLocation,true,DeploymentSpecification,true,true
+interface,true,Property,true,true
+connector,true,Message,true,true
+_operationOfRaisedException,true,[Abstract] Type,false,false
+_changeEventOfChangeExpression,true,[Abstract] ValueSpecification,false,true
+_operationOfRedefinedOperation,true,Operation,false,false
+decider,true,Clause,true,true
+isSingleExecution,true,Activity,true,true
+endData,true,[Abstract] LinkAction,true,true
+_substitutionOfContract,true,[Abstract] Classifier,false,false
+_informationFlowOfConveyed,true,[Abstract] Classifier,false,false
+type,true,CollaborationUse,true,true
+isOrdered,true,Operation,true,false
+group,true,Activity,true,true
+connectionPoint,true,StateMachine,true,true
+nestingPackage,true,Package,true,false
+_exceptionHandlerOfExceptionInput,true,[Abstract] ObjectNode,false,false
+_timeIntervalOfMax,true,TimeExpression,false,false
+classifier,true,ReadIsClassifiedObjectAction,true,true
+target,true,SendObjectAction,true,true
+_replyActionOfReturnInformation,true,InputPin,false,true
+result,true,AcceptEventAction,true,true
+_unmarshallActionOfObject,true,InputPin,false,true
+templateParameter__from_ConnectableElement,true,[Abstract] ConnectableElement,true,false
+parameterSet,true,Parameter,true,true
+precondition,true,Operation,true,true
+owningTransition,true,Constraint,true,true
+outputElement,true,ExpansionRegion,true,true
+qualifier,true,LinkEndData,true,true
+_removeStructuralFeatureValueActionOfRemoveAt,true,InputPin,false,true
+_structuralFeatureActionOfStructuralFeature,true,[Abstract] StructuralFeature,false,false
+_loopNodeOfBodyOutput,true,OutputPin,false,false
+_readSelfActionOfResult,true,OutputPin,false,true
+source,true,Transition,true,true
+role,true,ConnectorEnd,true,true
+nestedArtifact,true,Artifact,true,true
+toAfter,true,OccurrenceSpecification,true,true
+_activityNodeOfRedefinedNode,true,[Abstract] ActivityNode,false,false
+superPartition,true,ActivityPartition,true,true
+interaction,true,Message,true,true
+lower,true,[Abstract] MultiplicityElement,true,false
+_informationFlowOfRealizingConnector,true,Connector,false,false
+enclosingInteraction,true,[Abstract] InteractionFragment,true,true
+utilizedElement,true,Manifestation,true,true
+_unmarshallActionOfResult,true,OutputPin,false,true
+bodyContext,true,Constraint,true,true
+_manifestationOfUtilizedElement,true,[Abstract] PackageableElement,false,false
+_clearAssociationActionOfObject,true,InputPin,false,true
+outgoing,true,[Abstract] Vertex,true,false
+_durationObservationOfEvent,true,[Abstract] NamedElement,false,false
+importedMember,true,[Abstract] Namespace,true,false
+object,true,ReclassifyObjectAction,true,true
+isSimple,true,State,true,false
+_deploymentOfDeployedArtifact,true,[Abstract] DeployedArtifact,false,false
+signal,true,SendSignalAction,true,true
+_collaborationOfCollaborationRole,true,[Abstract] ConnectableElement,false,false
+_opaqueActionOfOutputValue,true,OutputPin,false,true
+ownedParameterSet,true,[Abstract] Behavior,true,true
+isExternal,true,ActivityPartition,true,true
+part,true,[Abstract] StructuredClassifier,true,false
+upperValue,true,[Abstract] MultiplicityElement,true,true
+before,true,GeneralOrdering,true,true
+isLeaf,true,[Abstract] RedefinableElement,true,true
+ownedAttribute,true,Signal,true,true
+_abstraction,true,[Abstract] Relationship,false,false
+port,true,Trigger,true,true
+_executionOccurrenceSpecificationOfExecution,true,[Abstract] ExecutionSpecification,false,false
+node,true,StructuredActivityNode,true,true
+_propertyOfSubsettedProperty,true,Property,false,false
+_messageOfSignature,true,[Abstract] NamedElement,false,false
+interface,true,Operation,true,true
+isID,true,Property,true,true
+inheritedMember,true,[Abstract] Classifier,true,false
+_readExtentActionOfResult,true,OutputPin,false,true
+behavior,true,[Abstract] Event,true,true
+includingCase,true,Include,true,true
+representation,true,[Abstract] Classifier,true,true
+_connectorOfType,true,Association,false,false
+argument,true,Message,true,true
+collaborationUse,true,[Abstract] Classifier,true,true
+_valueSpecificationActionOfValue,true,[Abstract] ValueSpecification,false,true
+informationTarget,true,InformationFlow,true,true
+_createLinkActionOfEndData,true,LinkEndCreationData,false,false
+_portOfProvided,false,Interface,false,false
+direction,true,Parameter,true,true
+collection,true,ReduceAction,true,true
+_interactionOperandOfGuard,true,InteractionConstraint,false,true
+isControl,true,[Abstract] Pin,true,true
+isStream,true,Parameter,true,true
+_timeEventOfWhen,true,TimeExpression,false,true
+observation,true,Duration,true,true
+ownedDiagram,true,[Abstract] Namespace,true,true
+state,true,Pseudostate,true,true
+_readVariableActionOfResult,true,OutputPin,false,true
+incoming,true,[Abstract] Vertex,true,false
+_readLinkObjectEndQualifierActionOfResult,true,OutputPin,false,true
+returnInformation,true,ReplyAction,true,true
+_stateInvariantOfInvariant,true,Constraint,false,true
+result,true,LoopNode,true,false
+_collaborationUseOfType,true,Collaboration,false,false
+isDerivedUnion,true,Property,true,true
+value,true,LiteralInteger,true,true
+min__from_DurationInterval,true,DurationInterval,true,false
+event,true,[Abstract] Behavior,true,true
+constrainingClassifier,true,ClassifierTemplateParameter,true,true
+subpartition,true,ActivityPartition,true,true
+template,true,TemplateSignature,true,true
+firstEvent,true,DurationConstraint,true,true
+owningInstance,true,Slot,true,true
+_protocolConformanceOfGeneralMachine,true,ProtocolStateMachine,false,false
+realizingMessage,true,InformationFlow,true,true
+_diagramOfContext,true,[Abstract] Element,false,false
+endData__from_DestroyLinkAction,true,DestroyLinkAction,true,false
+behavior,true,[Abstract] Observation,true,true
+_extendOfCondition,true,Constraint,false,true
+isRequired,true,Extension,true,false
+changeExpression,true,ChangeEvent,true,true
+appliedStereotypeInstance,true,[Abstract] Element,true,true
+_stateInvariantOfCovered,true,Lifeline,false,false
+isQuery,true,Operation,true,true
+datatype,true,Operation,true,true
+_structuredClassifierOfOwnedConnector,true,Connector,false,true
+mustIsolate,true,StructuredActivityNode,true,true
+_vertexOfRedefinedVertex,true,[Abstract] Vertex,false,false
+destroyAt,true,LinkEndDestructionData,true,true
+_nodeOfNestedNode,true,Node,false,true
+_behaviorOfOwnedParameter,true,Parameter,false,true
+_templateSignatureOfParameter,true,TemplateParameter,false,false
+_acceptCallActionOfReturnInformation,true,OutputPin,false,true
+association,true,ClearAssociationAction,true,true
+_interactionUseOfArgument,true,[Abstract] ValueSpecification,false,true
+_signalEventOfSignal,true,Signal,false,false
+provided,true,Port,true,false
+ownedAttribute,true,[Abstract] StructuredClassifier,true,true
+body,true,OpaqueExpression,true,true
+ownedOperation,true,Artifact,true,true
+_durationOfObservation,true,[Abstract] Observation,false,false
+visibility,true,[Abstract] NamedElement,true,true
+preCondition,true,ProtocolTransition,true,true
+covered__from_OccurrenceSpecification,true,OccurrenceSpecification,true,false
+result,true,ReadLinkObjectEndQualifierAction,true,true
+target,true,SendSignalAction,true,true
+classifierBehavior,true,[Abstract] BehavioredClassifier,true,true
+isFinalSpecialization,true,[Abstract] Classifier,true,true
+_clauseOfTest,true,[Abstract] ExecutableNode,false,false
+signal,true,SignalEvent,true,true
+client,true,Dependency,true,true
+ownedStereotype,true,Package,true,false
+_loopNodeOfLoopVariableInput,true,InputPin,false,true
+ownedParameter__from_Operation,true,Operation,true,false
+_clearAssociationActionOfAssociation,true,Association,false,false
+_acceptEventActionOfTrigger,true,Trigger,false,true
+_messageOfSendEvent,true,[Abstract] MessageEnd,false,false
+_loopNodeOfBodyPart,true,[Abstract] ExecutableNode,false,false
+isControlType,true,[Abstract] ObjectNode,true,true
+_transitionOfRedefinedTransition,true,Transition,false,false
+decisionInputFlow,true,DecisionNode,true,true
+inputValue,true,OpaqueAction,true,true
+isSubstitutable,true,Generalization,true,true
+_activityParameterNodeOfParameter,true,Parameter,false,false
+nameExpression,true,[Abstract] NamedElement,true,true
+interactionOperator,true,CombinedFragment,true,true
+extensionPoint,true,UseCase,true,true
+execution,true,ExecutionOccurrenceSpecification,true,true
+signal,true,Reception,true,true
+_addStructuralFeatureValueActionOfInsertAt,true,InputPin,false,true
+loopVariableInput,true,LoopNode,true,false
+_clearStructuralFeatureActionOfResult,true,OutputPin,false,true
+firstEvent,true,TimeConstraint,true,true
+_associationOfNavigableOwnedEnd,true,Property,false,false
+_extendOfExtendedCase,true,UseCase,false,false
+parameteredElement__from_ConnectableElementTemplateParameter,true,ConnectableElementTemplateParameter,true,false
+_objectFlowOfSelection,true,[Abstract] Behavior,false,false
+general,true,Generalization,true,true
+_broadcastSignalActionOfSignal,true,Signal,false,false
+expr,true,TimeExpression,true,true
+value,true,QualifierValue,true,true
+_readLinkObjectEndQualifierActionOfObject,true,InputPin,false,true
+body,true,OpaqueAction,true,true
+edge,true,StructuredActivityNode,true,true
+decisionInput,true,DecisionNode,true,true
+mergedPackage,true,PackageMerge,true,true
+role,true,[Abstract] StructuredClassifier,true,false
+target,true,[Abstract] DirectedRelationship,true,false
+instance,true,InstanceValue,true,true
+extensionLocation,true,Extend,true,true
+end,true,[Abstract] ConnectableElement,true,false
+container,true,Transition,true,true
+isRemoveDuplicates,true,RemoveVariableValueAction,true,true
+replyValue,true,ReplyAction,true,true
+importedPackage,true,PackageImport,true,true
+structuredNodeInput,true,StructuredActivityNode,true,true
+ownedOperation,true,Interface,true,true
+_joinNodeOfJoinSpec,true,[Abstract] ValueSpecification,false,true
+supplier,true,Dependency,true,true
+subject,true,UseCase,true,true
+ownedLiteral,true,Enumeration,true,true
+_packageOfOwnedStereotype,false,Stereotype,false,false
+handler,true,[Abstract] ExecutableNode,true,true
+syncElement,true,[Abstract] Element,true,true
+kind,true,Connector,true,false
+_writeVariableActionOfValue,true,InputPin,false,true
+postCondition,true,ProtocolTransition,true,true
+classifier,true,RedefinableTemplateSignature,true,false
+_classOfOwnedReception,true,Reception,false,true
+_portOfRedefinedPort,true,Port,false,false
+outputValue,true,OpaqueAction,true,true
+_durationIntervalOfMax,true,Duration,false,false
+ownedAttribute,true,Artifact,true,true
+owningProperty,true,[Abstract] ValueSpecification,true,true
+protectedNode,true,ExceptionHandler,true,true
+attribute,true,[Abstract] Classifier,true,false
+general,true,[Abstract] Classifier,true,false
+_actionExecutionSpecificationOfAction,true,[Abstract] Action,false,false
+language,true,OpaqueBehavior,true,true
+_readLinkObjectEndActionOfObject,true,InputPin,false,true
+_readLinkActionOfResult,true,OutputPin,false,true
+_behaviorOfOwnedParameterSet,true,ParameterSet,false,true
+oldClassifier,true,ReclassifyObjectAction,true,true
+elementImport,true,[Abstract] Namespace,true,true
+_operationOfType,false,[Abstract] Type,false,false
+predecessorClause,true,Clause,true,true
+value,true,LiteralBoolean,true,true
+ownedOperation,true,Class,true,true
+exit,true,State,true,true
+association,true,Property,true,true
+_sendObjectActionOfTarget,true,InputPin,false,true
+condition,true,ParameterSet,true,true
+start,true,[Abstract] ExecutionSpecification,true,true
+_classOfSuperClass,true,Class,false,false
+_generalizationOfGeneral,true,[Abstract] Classifier,false,false
+_createObjectActionOfClassifier,true,[Abstract] Classifier,false,false
+isDisjoint,true,GeneralizationSet,true,true
+upper,true,Operation,true,false
+_interactionConstraintOfMaxint,true,[Abstract] ValueSpecification,false,true
+ownedTemplateSignature__from_Classifier,true,[Abstract] Classifier,true,false
+inInterruptibleRegion,true,[Abstract] ActivityNode,true,true
+_reduceActionOfReducer,true,[Abstract] Behavior,false,false
+object,true,UnmarshallAction,true,true
+context,true,Diagram,true,true
+output,true,[Abstract] Action,true,false
+ownedTemplateSignature,true,[Abstract] TemplateableElement,true,true
+cfragmentGate,true,CombinedFragment,true,true
+_lifelineOfRepresents,true,[Abstract] ConnectableElement,false,false
+endType,true,Association,true,false
+contract,true,Substitution,true,true
+setting,true,Continuation,true,true
+realization,true,InformationFlow,true,true
+_extensionEndOfType,true,Stereotype,false,false
+_occurrenceSpecificationOfCovered,true,Lifeline,false,false
+_exceptionHandlerOfHandlerBody,true,[Abstract] ExecutableNode,false,false
+_reclassifyObjectActionOfNewClassifier,true,[Abstract] Classifier,false,false
+specification,true,Constraint,true,true
+node,true,Activity,true,true
+_interactionConstraintOfMinint,true,[Abstract] ValueSpecification,false,true
+_actionOfLocalPrecondition,true,Constraint,false,true
+kind,true,Transition,true,true
+ownedConnector,true,[Abstract] StructuredClassifier,true,true
+after,true,GeneralOrdering,true,true
+useCase,true,[Abstract] Classifier,true,true
+profile,true,Stereotype,true,false
+_stateOfDeferrableTrigger,true,Trigger,false,true
+maxint,true,InteractionConstraint,true,true
+trigger,true,Transition,true,true
+_receptionOfSignal,true,Signal,false,false
+_readIsClassifiedObjectActionOfClassifier,true,[Abstract] Classifier,false,false
+_propertyOfOpposite,false,Property,false,false
+localPrecondition,true,[Abstract] Action,true,true
+owningExpression,true,StringExpression,true,true
+action,true,ActionExecutionSpecification,true,true
+minint,true,InteractionConstraint,true,true
+subgroup,true,[Abstract] ActivityGroup,true,false
+isOrdered,true,[Abstract] MultiplicityElement,true,true
+definingFeature,true,Slot,true,true
+returnInformation,true,AcceptCallAction,true,true
+expr,true,Duration,true,true
+_stateOfDoActivity,true,[Abstract] Behavior,false,true
+edge,true,Activity,true,true
+fragment,true,InteractionOperand,true,true
+redefinedNode,true,[Abstract] ActivityNode,true,true
+_behaviorOfRedefinedBehavior,true,[Abstract] Behavior,false,false
+operation,true,CallOperationAction,true,true
+method,true,[Abstract] BehavioralFeature,true,true
+covered__from_StateInvariant,true,StateInvariant,true,false
+represents,true,Lifeline,true,true
+insertAt,true,AddStructuralFeatureValueAction,true,true
+opposite,true,Property,true,false
+inActivity,true,[Abstract] ActivityGroup,true,true
+observation,true,[Abstract] Behavior,true,true
+_interfaceRealizationOfContract,true,Interface,false,false
+_linkEndDestructionDataOfDestroyAt,true,InputPin,false,false
+actualGate,true,InteractionUse,true,true
+_opaqueExpressionOfBehavior,true,[Abstract] Behavior,false,false
+realization,true,Component,true,true
+_actionOfInput,true,InputPin,false,false
+owningElement,true,Comment,true,true
+ownedParameterSet,true,[Abstract] BehavioralFeature,true,true
+isComposite,true,State,true,false
+result,true,ReadLinkObjectEndAction,true,true
+max__from_TimeInterval,true,TimeInterval,true,false
+ownedParameter,true,TemplateSignature,true,true
+_sendObjectActionOfRequest,true,InputPin,false,true
+isStrict,true,ProfileApplication,true,true
+_executionSpecificationOfFinish,true,OccurrenceSpecification,false,false
+_intervalOfMax,true,[Abstract] ValueSpecification,false,false
+nestedNode,true,Node,true,true
+_redefinableTemplateSignatureOfExtendedSignature,true,RedefinableTemplateSignature,false,false
+postcondition,true,Operation,true,true
+inStructuredNode,true,[Abstract] ActivityEdge,true,true
+isAbstract,true,[Abstract] BehavioralFeature,true,true
+extendedCase,true,Extend,true,true
+body,true,Clause,true,true
+entry,true,State,true,true
+_classifierOfCollaborationUse,true,CollaborationUse,false,true
+name,true,[Abstract] NamedElement,true,true
+powertypeExtent,true,[Abstract] Classifier,true,true
+_decisionNodeOfDecisionInputFlow,true,ObjectFlow,false,false
+namespace,true,[Abstract] NamedElement,true,false
+_interactionOfFormalGate,true,Gate,false,true
+isDeterminate,true,ConditionalNode,true,true
+context,true,[Abstract] Behavior,true,false
+min,true,Interval,true,true
+nestedClassifier,true,Class,true,true
+_packageMergeOfMergedPackage,true,Package,false,false
+_lifelineOfDecomposedAs,true,PartDecomposition,false,false
+isDestroyLinks,true,DestroyObjectAction,true,true
+type__from_ExtensionEnd,true,ExtensionEnd,true,false
+implementingClassifier,true,InterfaceRealization,true,true
+_templateParameterSubstitutionOfFormal,true,TemplateParameter,false,false
+subsettedProperty,true,Property,true,true
+value,true,LiteralReal,true,true
+raisedException__from_Operation,true,Operation,true,false
+_templateParameterOfOwnedDefault,true,[Abstract] ParameterableElement,false,true
+_activityEdgeOfGuard,true,[Abstract] ValueSpecification,false,true
+_actionOfLocalPostcondition,true,Constraint,false,true
+max__from_DurationInterval,true,DurationInterval,true,false
+formalGate,true,Gate,true,true
+stateMachine,true,Region,true,true
+_artifactOfNestedArtifact,true,Artifact,false,true
+interruptingEdge,true,InterruptibleActivityRegion,true,true
+signature,true,TemplateParameter,true,true
+extension,true,Extend,true,true
+_informationFlowOfRealizingMessage,true,Message,false,false
+test,true,Clause,true,true
+event,true,Trigger,true,true
+protocol,true,Port,true,true
+_intervalConstraintOfSpecification,true,Interval,false,false
+_structuredClassifierOfOwnedAttribute,true,Property,false,true
+defaultValue,true,Property,true,true
+isUnique,true,Operation,true,false
+connection,true,State,true,true
+_writeStructuralFeatureActionOfResult,true,OutputPin,false,true
+fragment,true,Interaction,true,true
+qualifier,true,QualifierValue,true,true
+_regionOfRedefinitionContext,false,[Abstract] Classifier,false,false
+ownedAttribute,true,DataType,true,true
+_portOfProtocol,true,ProtocolStateMachine,false,false
+_variableActionOfVariable,true,Variable,false,false
+_redefinableTemplateSignatureOfInheritedParameter,false,TemplateParameter,false,false
+isService,true,Port,true,true
+object,true,StartObjectBehaviorAction,true,true
+_invocationActionOfArgument,true,InputPin,false,true
+slot,true,InstanceSpecification,true,true
+_readIsClassifiedObjectActionOfResult,true,OutputPin,false,true
+preContext,true,Constraint,true,true
+selection,true,ObjectFlow,true,true
+type,true,Connector,true,true
+value,true,LiteralString,true,true
+_connectorEndOfDefiningEnd,false,Property,false,false
+_combinedFragmentOfCfragmentGate,true,Gate,false,true
+location,true,Image,true,true
+operand,true,CombinedFragment,true,true
+parameter,true,ParameterSet,true,true
+result,true,ValueSpecificationAction,true,true
+_destroyLinkActionOfEndData,true,LinkEndDestructionData,false,false
+redefinedProperty,true,Property,true,true
+context,true,[Abstract] Action,true,false
+nestedPackage,true,Package,true,false
+_linkActionOfInputValue,true,InputPin,false,true
+superGroup,true,[Abstract] ActivityGroup,true,false
+_interactionUseOfRefersTo,true,Interaction,false,false
+outgoing,true,[Abstract] ActivityNode,true,true
+generalMachine,true,ProtocolConformance,true,true
+receiveEvent,true,Message,true,true
+object,true,ReadLinkObjectEndQualifierAction,true,true
+_profileOfMetaclassReference,true,ElementImport,false,true
+owningSlot,true,[Abstract] ValueSpecification,true,true
+_encapsulatedClassifierOfOwnedPort,false,Port,false,false
+result,true,ReadIsClassifiedObjectAction,true,true
+redefinedOperation,true,Operation,true,true
+_valuePinOfValue,true,[Abstract] ValueSpecification,false,true
+_considerIgnoreFragmentOfMessage,true,[Abstract] NamedElement,false,false
+_actionOfOutput,true,OutputPin,false,false
+ownedActual,true,TemplateParameterSubstitution,true,true
+ownedEnd,true,Association,true,true
+returnValue,true,InteractionUse,true,true
+_durationOfExpr,true,[Abstract] ValueSpecification,false,true
+inState,true,[Abstract] ObjectNode,true,true
+signature,true,TemplateBinding,true,true
+isDerived,true,Property,true,true
+_elementImportOfImportedElement,true,[Abstract] PackageableElement,false,false
+isBehavior,true,Port,true,true
+_readLinkObjectEndQualifierActionOfQualifier,true,Property,false,false
+value,true,ValuePin,true,true
+_templateParameterOfDefault,true,[Abstract] ParameterableElement,false,false
+value,true,Slot,true,true
+inGroup,true,[Abstract] ActivityNode,true,false
+upper,true,[Abstract] MultiplicityElement,true,false
+partWithPort,true,ConnectorEnd,true,true
+_readExtentActionOfClassifier,true,[Abstract] Classifier,false,false
+executableNode,true,SequenceNode,true,false
+_actionOfContext,false,[Abstract] Classifier,false,false
+interface,true,ProtocolStateMachine,true,true
+_activityEdgeOfRedefinedEdge,true,[Abstract] ActivityEdge,false,false
+deployedElement,true,[Abstract] DeploymentTarget,true,false
+_stereotypeOfIcon,true,Image,false,true
+lower,true,Operation,true,false
+value,true,LiteralUnlimitedNatural,true,true
+concurrency,true,[Abstract] BehavioralFeature,true,true
+effect,true,Transition,true,true
+classifier,true,ReadExtentAction,true,true
+UMLClass,true,Operation,true,true
+bodyOutput,true,LoopNode,true,true
+UMLClass,true,[Abstract] Classifier,true,true
+partition,true,Activity,true,true
+bodyCondition,true,Operation,true,true
+_loopNodeOfDecider,true,OutputPin,false,false
+_interfaceOfNestedClassifier,true,[Abstract] Classifier,false,true
+owningConstraint,true,[Abstract] ValueSpecification,true,true
+behavior,true,CallBehaviorAction,true,true
+inPartition,true,[Abstract] ActivityNode,true,true
+owningState,true,Constraint,true,true
+sendEvent,true,Message,true,true
+_classifierOfRepresentation,true,CollaborationUse,false,false
+insertAt,true,AddVariableValueAction,true,true
+structuredNode,true,Activity,true,false
+newClassifier,true,ReclassifyObjectAction,true,true
+_stateOfExit,true,[Abstract] Behavior,false,true
+_timeObservationOfEvent,true,[Abstract] NamedElement,false,false
+_messageOfReceiveEvent,true,[Abstract] MessageEnd,false,false
+specification,true,InstanceSpecification,true,true
+_addVariableValueActionOfInsertAt,true,InputPin,false,true
+isMultireceive,true,ObjectFlow,true,true
+_decisionNodeOfDecisionInput,true,[Abstract] Behavior,false,false
+_messageOfReplyMessage,true,Message,false,false
+regionAsInput,true,ExpansionNode,true,true
+scope,true,Variable,true,true
+submachineState,true,StateMachine,true,true
+lowerValue,true,[Abstract] MultiplicityElement,true,true
+_destroyObjectActionOfTarget,true,InputPin,false,true
+_transitionOfEffect,true,[Abstract] Behavior,false,true
+isSubmachineState,true,State,true,false
+include,true,UseCase,true,true
+supplierDependency,true,[Abstract] NamedElement,true,false
+bodyOutput,true,Clause,true,true
+required,true,Component,true,false
+ownerOfDiagram,true,Diagram,true,true
+_testIdentityActionOfSecond,true,InputPin,false,true
+_replyActionOfReplyValue,true,InputPin,false,true
+package,true,[Abstract] Type,true,false
+_testIdentityActionOfResult,true,OutputPin,false,true
+entry,true,ConnectionPointReference,true,true
+packageImport,true,[Abstract] Namespace,true,true
+_representation,true,Diagram,false,true
+max,true,Interval,true,true
+guard,true,Transition,true,true
+substitutingClassifier,true,Substitution,true,true
+referred,true,ProtocolTransition,true,false
+_classifierOfInheritedMember,false,[Abstract] NamedElement,false,false
+_behavioralFeatureOfOwnedParameterSet,true,ParameterSet,false,true
+_conditionalNodeOfClause,true,Clause,false,true
+_namedElementOfNameExpression,true,StringExpression,false,true
+isRemoveDuplicates,true,RemoveStructuralFeatureValueAction,true,true
+ownedReception,true,Class,true,true
+coveredBy,true,Lifeline,true,true
+_classifierOfOwnedUseCase,true,UseCase,false,true
+_loopNodeOfLoopVariable,true,OutputPin,false,true
+symbol,true,Expression,true,true
+_triggerOfPort,true,Port,false,false
+_createObjectActionOfResult,true,OutputPin,false,true
+containedNode,true,[Abstract] ActivityGroup,true,false
+roleBinding,true,CollaborationUse,true,true
+qualifier,true,ReadLinkObjectEndQualifierAction,true,true
+addition,true,Include,true,true
+redefinitionContext,true,[Abstract] RedefinableElement,true,false
+powertype,true,GeneralizationSet,true,true
+redefinitionContext__from_Region,true,Region,true,false
+postcondition,true,[Abstract] Behavior,true,true
+featuringClassifier,true,[Abstract] Feature,true,false
+signal,true,BroadcastSignalAction,true,true
+source,true,[Abstract] ActivityEdge,true,true
+_classifierOfGeneral,true,[Abstract] Classifier,false,false
+viewpoint,true,Model,true,true
+ownedParameter,true,[Abstract] Behavior,true,true
+_componentOfRequired,false,Interface,false,false
+_objectNodeOfUpperBound,true,[Abstract] ValueSpecification,false,true
+_propertyOfRedefinedProperty,true,Property,false,false
+decider,true,LoopNode,true,true
+boundElement,true,TemplateBinding,true,true
+_callEventOfOperation,true,Operation,false,false
+qualifier,true,Property,true,true
+_connectorEndOfPartWithPort,true,Property,false,false
+value,true,[Abstract] WriteVariableAction,true,true
+isCombineDuplicate,true,JoinNode,true,true
+_artifactOfManifestation,true,Manifestation,false,true
+node,true,ActivityPartition,true,true
+value,true,ValueSpecificationAction,true,true
+formalGate,true,Interaction,true,true
+_elementValueOfElement,true,[Abstract] Element,false,false
+_timeIntervalOfMin,true,TimeExpression,false,false
+structuralFeature,true,[Abstract] StructuralFeatureAction,true,true
+_createLinkObjectActionOfResult,true,OutputPin,false,true
+reducer,true,ReduceAction,true,true
+kind,true,Pseudostate,true,true
+result,true,[Abstract] WriteStructuralFeatureAction,true,true
+connectionPoint,true,State,true,true
+_opaqueExpressionOfResult,false,Parameter,false,false
+location,true,Deployment,true,true
+isOrdered,true,ReduceAction,true,true
+event,true,DurationObservation,true,true
+_associationOfEndType,true,[Abstract] Type,false,false
+isRelative,true,TimeEvent,true,true
+_connectorOfContract,true,[Abstract] Behavior,false,false
+_reclassifyObjectActionOfObject,true,InputPin,false,true
+_slotOfDefiningFeature,true,[Abstract] StructuralFeature,false,false
+incoming,true,[Abstract] ActivityNode,true,true
+ownedEnd__from_Extension,true,Extension,true,false
+isLocallyReentrant,true,[Abstract] Action,true,true
+aggregation,true,Property,true,true
+_clauseOfBodyOutput,true,OutputPin,false,false
+annotatedElement,true,Comment,true,true
+owningTemplateParameter,true,[Abstract] ParameterableElement,true,true
+_extensionOfOwnedEnd,true,ExtensionEnd,false,false
+isDestroyDuplicates,true,LinkEndDestructionData,true,true
+value,true,[Abstract] WriteStructuralFeatureAction,true,true
+when,true,TimeEvent,true,true
+_instanceSpecificationOfClassifier,true,[Abstract] Classifier,false,false
+_informationFlowOfInformationSource,true,[Abstract] NamedElement,false,false
+behavior,true,BehaviorExecutionSpecification,true,true
+_componentOfPackagedElement,true,[Abstract] PackageableElement,false,true
+provided,true,Component,true,false
+isReplaceAll,true,AddVariableValueAction,true,true
+superClass,true,Class,true,false
+_connectionPointReferenceOfEntry,true,Pseudostate,false,false
+lower__from_ExtensionEnd,true,ExtensionEnd,true,false
+setupPart,true,LoopNode,true,true
+_callBehaviorActionOfBehavior,true,[Abstract] Behavior,false,false
+redefinedElement,true,[Abstract] RedefinableElement,true,false
+_timeExpressionOfObservation,true,[Abstract] Observation,false,false
+returnValueRecipient,true,InteractionUse,true,true
+effect,true,Parameter,true,true
+selection,true,[Abstract] ObjectNode,true,true
+removeAt,true,RemoveVariableValueAction,true,true
+onPort,true,[Abstract] InvocationAction,true,true
+value,true,LinkEndData,true,true
+subExpression,true,StringExpression,true,true
+redefinedBehavior,true,[Abstract] Behavior,true,true
+_componentRealizationOfRealizingClassifier,true,[Abstract] Classifier,false,false
+collaborationRole,true,Collaboration,true,true
+ownedMember,true,[Abstract] Namespace,true,false
+_elementOfSyncElement,true,[Abstract] Element,false,false
+removeAt,true,RemoveStructuralFeatureValueAction,true,true
+visibility,true,PackageImport,true,true
+contract,true,InterfaceRealization,true,true
+replyMessage,true,Message,true,true
+behavior,true,OpaqueExpression,true,true
+ownedBehavior,true,[Abstract] BehavioredClassifier,true,true
+_linkActionOfEndData,true,LinkEndData,false,true
+state,true,ConnectionPointReference,true,true
+result,true,ReadExtentAction,true,true
+_reduceActionOfResult,true,OutputPin,false,true
+ownedRule,true,[Abstract] Namespace,true,true
+result,true,UnmarshallAction,true,true
+extend,true,UseCase,true,true
+generalization,true,GeneralizationSet,true,true
+mode,true,ExpansionRegion,true,true
+templateParameter__from_Operation,true,Operation,true,false
+isMulticast,true,ObjectFlow,true,true
+importingNamespace,true,ElementImport,true,true
+profileApplication,true,Package,true,true
+type,true,Operation,true,false
+_interfaceOfOwnedReception,true,Reception,false,true
+_informationItemOfRepresented,true,[Abstract] Classifier,false,false
+_includeOfAddition,true,UseCase,false,false
+redefinedPort,true,Port,true,true
+container,true,[Abstract] Vertex,true,true
+contract,true,Connector,true,true
+argument,true,[Abstract] InvocationAction,true,true
+_messageOfTarget,true,[Abstract] ValueSpecification,false,true
+packagedElement,true,Package,true,true
+_callOperationActionOfTarget,true,InputPin,false,true
+endData__from_CreateLinkAction,true,CreateLinkAction,true,false
+body,true,OpaqueBehavior,true,true
+test,true,LoopNode,true,true
+_objectNodeOfInState,true,State,false,false
+_behaviorOfContext,false,[Abstract] BehavioredClassifier,false,false
+min__from_TimeInterval,true,TimeInterval,true,false
+deferrableTrigger,true,State,true,true
+result,true,ConditionalNode,true,false
+insertAt,true,LinkEndCreationData,true,true
+_clauseOfBody,true,[Abstract] ExecutableNode,false,false
+_testIdentityActionOfFirst,true,InputPin,false,true
+precondition,true,[Abstract] Behavior,true,true
+isStatic,true,[Abstract] Feature,true,true
+message,true,[Abstract] MessageEnd,true,true
+context,true,Constraint,true,true
+language,true,OpaqueAction,true,true
+result,true,ReadLinkAction,true,true
+represented,true,InformationItem,true,true
+result,true,TestIdentityAction,true,true
+result,true,CreateLinkObjectAction,true,true
+postContext,true,Constraint,true,true
+memberEnd,true,Association,true,true
+classifier,true,InstanceSpecification,true,true
+_loopNodeOfResult,true,OutputPin,false,true
+_reduceActionOfCollection,true,InputPin,false,true
+_directedRelationshipOfSource,true,[Abstract] Element,false,false
+enclosingOperand,true,[Abstract] InteractionFragment,true,true
+datatype,true,Property,true,true
+ownedDefault,true,TemplateParameter,true,true
+firstEvent,true,TimeObservation,true,true
+_linkEndDataOfEnd,true,Property,false,false
+owningSignal,true,Property,true,true
+_deploymentTargetOfDeployedElement,false,[Abstract] PackageableElement,false,false
+_commentOfAnnotatedElement,true,[Abstract] Element,false,false
+specific,true,Generalization,true,true
+_directedRelationshipOfTarget,true,[Abstract] Element,false,false
+_behaviorOfPrecondition,true,Constraint,false,true
+exceptionInput,true,ExceptionHandler,true,true
+isCovering,true,GeneralizationSet,true,true
+_behavioredClassifierOfOwnedBehavior,true,[Abstract] Behavior,false,true
+nestedClassifier,true,Interface,true,true
+extendedSignature,true,RedefinableTemplateSignature,true,true
+ownerFormalParam,true,Parameter,true,true
+ownedParameter,true,[Abstract] BehavioralFeature,true,true
+_executionSpecificationOfStart,true,OccurrenceSpecification,false,false
+_timeConstraintOfSpecification,true,TimeInterval,false,false
+transition,true,Region,true,true
+state,true,Region,true,true
+_qualifierValueOfQualifier,true,Property,false,false
+_unmarshallActionOfUnmarshallType,true,[Abstract] Classifier,false,false
+subvertex,true,Region,true,true
+_interfaceOfRedefinedInterface,true,Interface,false,false
+owner,true,[Abstract] Element,true,false
+structuredNodeOutput,true,StructuredActivityNode,true,true
+associationEnd,true,Property,true,true
+_sequenceNodeOfExecutableNode,true,[Abstract] ExecutableNode,false,true
+ownedElement,true,[Abstract] Element,true,false
+isUnmarshall,true,AcceptEventAction,true,true
+manifestation,true,Artifact,true,true
+parameteredElement__from_OperationTemplateParameter,true,OperationTemplateParameter,true,false
+upperBound,true,[Abstract] ObjectNode,true,true

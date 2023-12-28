@@ -1,8 +1,0 @@
-Manifest-Version: 1.0
-Bundle-ManifestVersion: 2
-Bundle-Name: io.incquery.cameo.model-coverage-report
-Bundle-SymbolicName: io.incquery.cameo.model-coverage-report;singleton:=true
-Bundle-Version: 0.1.0.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Automatic-Module-Name: io.incquery.cameo.model-coverage-report
-Export-Package: .
